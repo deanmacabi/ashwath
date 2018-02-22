@@ -7,7 +7,6 @@ menu: no
   <a href = '/search/' class = 'search-link'><img src = '/images/search.svg' alt = 'search icon'></a>
 </h1>
 <div class="home">
-
    {% if paginator.page %}
       {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
       {% assign currentPage = paginator.page %}
