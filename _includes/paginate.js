@@ -8,7 +8,7 @@
     
     $(this).addClass("loading");
     console.log(nextPage);
-    $.get("{{ site.url }}/page" + nextPage, function (data) {
+    $.get("https://blog.mentorself.com/page" + nextPage, function (data) {
       var htmlData = $.parseHTML(data);
       var $articles = $(htmlData).find(".post-list");
       
