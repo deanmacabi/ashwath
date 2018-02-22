@@ -1,9 +1,9 @@
-- name: Mentor Myself
+- name: Home
   link: https://mentorself.com/
   external: true
-- name: About
+- name: Mentorship Program
   link: https://mentorself.com/about
   external: true
-- name: Contact
+- name: Contact Us
   link: https://mentorself.com/contact
   external: true
