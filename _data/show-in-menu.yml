@@ -1,0 +1,9 @@
+- name: Mentor Myself
+  link: https://mentorself.com/
+  external: true
+- name: About
+  link: https://mentorself.com/about
+  external: true
+- name: Contact
+  link: https://mentorself.com/contact
+  external: true
