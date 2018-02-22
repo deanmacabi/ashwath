@@ -5,12 +5,20 @@
 </div>
 <div style="text-align:center" class="footer-col footer-col-2">
 <p><strong>Copyrights 20{{site.time | date: '%y'}} <a href="{{site.url}}">{{site.title}}</a>.</strong> All Rights Reserved.</p>
-<p><a target="_blank" href="{{site.full-url}}">Full Version</a></p>
 </div>
 <div class="footer-col footer-col-3">
 </div>
 </div>
 </div>
 </footer>
-
-
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+<script>
+  {% include drift.js %} 
+  {% include paginate.js %} 
+</script>
+{% if page.search %}
+  {% include algolia.html %}
+{% endif %}
