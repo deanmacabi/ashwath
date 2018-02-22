@@ -55,6 +55,6 @@ author:
   facebook:  # https://facebook.com/ is automatically added
   email: contact@mentorself.com # mailto: is automatically added
   
-gems: 
+plugins: 
   - jekyll-seo-tag
   - jekyll-paginate
