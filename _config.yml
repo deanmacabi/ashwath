@@ -55,6 +55,16 @@ author:
   facebook:  # https://facebook.com/ is automatically added
   email: contact@mentorself.com # mailto: is automatically added
   
+paginate: 5
+paginate_path: '/page:num/'
 plugins: 
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-algolia
+
+# search
+algolia:
+algolia:
+  application_id: 'GOSGQ0WL5J'
+  index_name:  'mentorself'
+  search_only_api_key: '304c6efac19b374cc83f760e805abeef'
