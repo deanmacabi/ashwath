@@ -7,8 +7,8 @@
     var totalPages = parseInt($blogContainer.attr("data-totalPages"));
     
     $(this).addClass("loading");
-    console.log(nextPage);
-    $.get("{{ site.baseurl }}/page" + nextPage, function (data) {
+
+    $.get("{{ site.baseurl }}/page" + nextPage + "/", function (data) {
       var htmlData = $.parseHTML(data);
       var $articles = $(htmlData).find(".post-list");
       
