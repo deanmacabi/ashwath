@@ -5,6 +5,7 @@ description: Cum sociis natoque penatibus et magnis dis parturient montes, nasce
 date:   2016-09-11 10:50:00 +0530
 categories: code
 author: ashwathama
+featured-image: lost-9.jpg
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 

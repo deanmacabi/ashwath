@@ -4,6 +4,7 @@ title:  "Demo Title"
 description: demo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main site.
 date:   2018-12-30 14:50:00 +0230
 categories: demo
+featured-image: lost-10.jpg
 ---
 demo description on main site
 
