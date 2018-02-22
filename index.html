@@ -3,15 +3,28 @@ layout: default
 title: Blog
 menu: no
 ---
-<h1 class="page-title">Articles</h1>
+<h1 class="page-title">Articles 
+  <a href = '/search/' class = 'search-link'><img src = '/images/search.svg' alt = 'search icon'></a>
+</h1>
 <div class="home">
-<div class="post-list">
-{% for post in site.posts %}
-<a style="text-decoration:none"  href="{{ post.url | prepend: site.baseurl }}">
+
+   {% if paginator.page %}
+      {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
+      {% assign currentPage = paginator.page %}
+   {% else %}
+      {% assign offset = 0 %}
+      {% assign currentPage = 1 %}
+   {% endif %}
+  <div class="post-list" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
+    {% for post in site.posts limit:site.paginate offset:offset %}
+    <a style="text-decoration:none" id = 'post'  href="{{ post.url | prepend: site.baseurl }}">
       {% include post-cards.html %}
-</a>
-{% endfor %}
+    </a>
+    {% endfor %}
+  </div>
+  {% assign postCount = site.posts | size %}
+  {% assign postsCovered = site.paginate | plus:offset %}
+  {% if postsCovered < postCount %}
+    <button class="loadMore">Load more posts</button>
+  {% endif %}
 </div>
-</div>
-
-
