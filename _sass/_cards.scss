@@ -8,6 +8,7 @@
     margin-bottom: 40px;
     padding: 0;
     position: relative;
+    display: flex;
     &:hover{
         box-shadow: 0 7px 10px -4px #777;
         -webkit-box-shadow: 0 7px 10px -4px #777;
@@ -19,15 +20,13 @@
 }
 
 
-.post-meta {
-    display: inline-block;
-    background: #26A65B; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to top, #26A65B , #2ECC71); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to top, #26A65B , #2ECC71); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */   
+.post-meta {   
     padding: 10px 25px;
     color: $background-color;
     text-align: center;
-    width: 8%;
+    width: 125px;
+    height:125px;
+    background-size: cover;
     font-size: 20px;
     @include media-query($on-laptop) {
           padding: 12px 15px;

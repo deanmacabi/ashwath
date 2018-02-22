@@ -1,16 +1,11 @@
-{% if post.featured-image %} 
-  <img src = '/images/{{ post.featured-image}}' class = "post-image">
-{% endif %}
 {% if site.change-date-bg %}
 <div class="post-box">
 {% if post.categories %}
 <div class="ribbon"><span>{{post.categories | first}}</span></div>
 {% endif %}
-<div class="post-meta" style="background: {{site.color-1}};background: -webkit-linear-gradient(to top, {{site.color-1}} , {{site.color-2}});background: linear-gradient(to top, {{site.color-1}} , {{site.color-2}});"><h1 class="date">{{ post.date | date: "%-d" }}</h1>
-<span>{{ post.date | date: "%b" }}</span></div>
+<div class="post-meta"style = "background-image: url(/images/{{post.featured-image}});"></div>
 <div class="post-title-box">
 <p class="post-link">{{ post.title | truncate: 40 }}</p>
-{% if post.featured-image %} <img src = '/images/{{ post.featured-image}}'>{% endif %}
 <p class="post-excerpt">{{ post.description | strip_html | truncate: 120 }}</p>
 </div>
 </div>
@@ -22,8 +17,7 @@
 {% if post.categories %}
 <div class="ribbon"><span>{{post.categories | first}}</span></div>
 {% endif %}
-<div class="post-meta"><h1 class="date">{{ post.date | date: "%-d" }}</h1>
-<span>{{ post.date | date: "%b" }}</span></div>
+<div class="post-meta" style = "background-image: url(/images/{{post.featured-image}});"></div>
 <div class="post-title-box">
 <p class="post-link">{{ post.title | truncate: 40 }}</p>
 <p class="post-excerpt">{{ post.description | strip_html | truncate: 120 }}</p>
