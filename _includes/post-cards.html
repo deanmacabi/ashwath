@@ -1,4 +1,6 @@
-
+{% if post.featured-image %} 
+  <img src = '/images/{{ post.featured-image}}' class = "post-image">
+{% endif %}
 {% if site.change-date-bg %}
 <div class="post-box">
 {% if post.categories %}
@@ -8,6 +10,7 @@
 <span>{{ post.date | date: "%b" }}</span></div>
 <div class="post-title-box">
 <p class="post-link">{{ post.title | truncate: 40 }}</p>
+{% if post.featured-image %} <img src = '/images/{{ post.featured-image}}'>{% endif %}
 <p class="post-excerpt">{{ post.description | strip_html | truncate: 120 }}</p>
 </div>
 </div>
@@ -27,7 +30,6 @@
 </div>
 </div>
 {% endif %}
-
 
 {% if site.change-date-bg %}
 <style>
