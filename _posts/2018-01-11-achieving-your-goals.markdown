@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why You Are Not Achieving Your Goals"
-description: demo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main site.
+description: Today I am going to discuss something different than what you are used to reading. I know that most of the posts are about gain, reach, earn and so on. I’ve nothing against it at all, I’ve achieved pretty much by myself, the question is if you are happy and satisfied with where you are now…?
 date:   2018-01-07 14:50:00 +0230
 author: Dean Maccabi
 category:
