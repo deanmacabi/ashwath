@@ -5,11 +5,11 @@ description: Today I am going to discuss something different than what you are u
 date:   2018-01-07 14:50:00 +0230
 author: Dean Maccabi
 category:
-featured-image: img1.jpeg
+featured-image: pic1.jpeg
 ---
 # This Is The Only Reason You Are Not Achieving Your Goals
 
-![Achieve Your Goals]({{site.baseurl}}/images/img1.jpeg)
+![Achieve Your Goals]({{site.baseurl}}/images/pic1.jpeg)
 
 #### Today I am going to discuss something different than what you are used to reading. I know that most of the posts are about gain, reach, earn and so on. I’ve nothing against it at all, I’ve achieved pretty much by myself, the question is if you are happy and satisfied with where you are now…?
 
