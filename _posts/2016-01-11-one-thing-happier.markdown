@@ -22,7 +22,7 @@ featured-image: pic2.png
 
 #### So if you are ‘wondering’ what I’m suggesting instead is this.. before I tell it I want to admit it changed my life completely, after years of searching for the right key/routine/tip. It is called:
 
-> <h3>Critical Thinking / Self Questioning</h3>
+> **Critical Thinking / Self Questioning**
 
 #### I assume you’ve heard it before… Although questioning may seem easy, it is going to take you a while to figure everything you want and need to realize, however, in my opinion, it worth every moment ‘spent’ on it. 
 #### Good luck.
