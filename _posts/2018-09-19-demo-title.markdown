@@ -1,24 +1,25 @@
 ---
 layout: post
-title:  "Demo Title"
+title:  "This Is The Only Reason You Are Not Achieving Your Goals"
 description: demo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main site.
 date:   2018-12-30 14:50:00 +0230
-category: demo
+category:
 featured-image: lost-10.jpg
 ---
-demo description on main site
+# This Is The Only Reason You Are Not Achieving Your Goals
 
-![]({{site.baseurl}}/images/lost-10.jpg)
+![](https://cdn-images-1.medium.com/max/1500/1*ZsoCK7-icOBzfmvJFWNI-A.jpeg)
 
-# Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+#### Today I am going to discuss something different than what you are used to reading. I know that most of the posts are about gain, reach, earn and so on. I’ve nothing against it at all, I’ve achieved pretty much by myself, the question is if you are happy and satisfied with where you are now…?
 
-## Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+#### If you find yourself often procrastinating or not achieving your goals as you have planned, there must be a reason for that, is that so? But first of all, why is it happening at all? I would recommend figuring it first…
 
-Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+> My question for you is this: If the way you are following right now is indeed the one that fits and right for you, why are you still looking for more?
 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+### Maybe you need to re-consider and re-evaluate your goals by looking at your life today, last month and year and see if you have followed everything you wanted and planned and what were the actual results it has provided you, both tangible and psychological.
 
-Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+#### If you did everything as expected, I don’t see any problem at all, and I am pretty sure you neither, However if you have not reached what you had planned or have not experienced all the joy and happiness of life as you were a kid, I would assume you should re-consider few things…
 
-Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+Want to learn more about me & my program  Critical Thinking — <a class="drift-open-chat" href="javascript:void(0)"><font color="#0176FF">Chat with me for free.</font></a>
+
 
