@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This Is The Only Reason You Are Not Achieving Your Goals"
+title:  "Why You Are Not Achieving Your Goals"
 description: demo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main sitedemo description on main site.
 date:   2018-12-30 14:50:00 +0230
 category:
