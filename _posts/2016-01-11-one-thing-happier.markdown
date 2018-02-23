@@ -7,7 +7,7 @@ date:   2018-01-11 14:50:00 +0230
 author: Dean Maccabi
 featured-image: pic2.png
 ---
-#The only ONE thing you need to understand to be happy
+# The only ONE thing you need to understand to be happy
 
 ![brainwash]({{site.baseurl}}/images/pic2.png)
 
@@ -22,9 +22,10 @@ featured-image: pic2.png
 
 #### So if you are ‘wondering’ what I’m suggesting instead is this.. before I tell it I want to admit it changed my life completely, after years of searching for the right key/routine/tip. It is called:
 
-> **Critical Thinking / Self Questioning**
+> Critical Thinking / Self Questioning
 
 #### I assume you’ve heard it before… Although questioning may seem easy, it is going to take you a while to figure everything you want and need to realize, however, in my opinion, it worth every moment ‘spent’ on it. 
+
 #### Good luck.
 
 Want to learn more about me & my program  Critical Thinking — <a class="drift-open-chat" href="javascript:void(0)"><font color="#0176FF">Chat with me for free.</font></a>
