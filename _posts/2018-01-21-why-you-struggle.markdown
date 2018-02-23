@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is it that you are struggling with and why?"
+title:  "What is it that you are struggling with"
 description: I made this post to let you better understand your struggles as well as the solutions for them.
 date:   2018-01-21 10:50:00 +0230
 categories:
