@@ -9,7 +9,7 @@ featured-image: pic2logo.png
 ---
 # The only ONE thing you need to understand to be happy
 
-![brainwash brainwashing]({{site.baseurl}}/images/pic2.jpeg)
+![brainwash brainwashing]({{site.baseurl}}/images/pic2.png)
 
 #### I keep seeing so many posts such as, five tips how to become successful, nine routines that will make you happy, five rules to become wealthy. 
 #### But what are they providing us, other than a comforting feeling? Have you ever thought about that?
