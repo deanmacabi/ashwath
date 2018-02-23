@@ -2,7 +2,6 @@
 layout: post
 title:  "The ONLY thing you need to be happy"
 description: I keep seeing so many posts such as, five tips how to become successful, nine routines that will make you happy, five rules to become wealthy. 
-categories:
 date:   2018-01-11 14:50:00 +0230
 author: Dean Maccabi
 featured-image: pic2.png
