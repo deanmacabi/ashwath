@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Do you want to be more successful with women?"
-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+description: If you answered yes to the question above, then this is the only thing you need to ask yourself in order to be able to flirt with any woman you want! 
 categories:
 date:   2018-01-16 14:50:00 +0230
 author: Dean Maccabi
