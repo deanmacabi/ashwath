@@ -15,7 +15,7 @@ featured-image: pic1.jpeg
 
 #### If you find yourself often procrastinating or not achieving your goals as you have planned, there must be a reason for that, is that so? But first of all, why is it happening at all? I would recommend figuring it first…
 
-> **My question for you is this: If the way you are following right now is indeed the one that fits and right for you, why are you still looking for more?**
+> My question for you is this: If the way you are following right now is indeed the one that fits and right for you, why are you still looking for more?
 
 ### Maybe you need to re-consider and re-evaluate your goals by looking at your life today, last month and year and see if you have followed everything you wanted and planned and what were the actual results it has provided you, both tangible and psychological.
 
