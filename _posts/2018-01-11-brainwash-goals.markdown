@@ -7,7 +7,6 @@ Category:
 author: Dean Maccabi
 featured-image: pic2logo.png
 ---
-# The only ONE thing you need to understand to be happy
 
 ![brainwash brainwashing]({{site.baseurl}}/images/pic2.png)
 
