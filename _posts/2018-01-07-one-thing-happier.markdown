@@ -7,7 +7,6 @@ author: Dean Maccabi
 category:
 featured-image: pic1.jpeg
 ---
-# This Is The Only Reason You Are Not Achieving Your Goals
 
 ![Achieve Your Goals]({{site.baseurl}}/images/pic1.jpeg)
 
