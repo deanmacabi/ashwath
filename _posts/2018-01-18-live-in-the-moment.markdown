@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Are you struggling to live in the now?"
-description: Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.
+description: I often speak with many of my readers, and one of the topics they iterate the most is that they are struggling to live in the present. So if you struggle with it too, you got to the right place.
 date:   2018-01-18 10:50:00 +0230
 categories:
 author: Dean Maccabi
@@ -10,7 +10,7 @@ featured-image: pic5.jpeg
 
 ![Live in the moment]({{site.baseurl}}/images/pic5.jpeg)
 
-### I speak with many of my readers, and one of the topics they iterate the most is that they are struggling to live in the present. So if you struggle with it too, you got to the right place.
+### I often speak with many of my readers, and one of the topics they iterate the most is that they are struggling to live in the present. So if you struggle with it too, you got to the right place.
 
 ## First of all, I want you to ask yourself this:
 
