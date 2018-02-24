@@ -6,7 +6,6 @@ date:   2018-01-14 10:50:00 +0230
 author: Dean Maccabi
 featured-image: pic3logo.jpg
 ---
-# Why Minimalism is the way to happiness
 
 ![minimalism minimalist]({{site.baseurl}}/images/pic3.jpeg)
 
