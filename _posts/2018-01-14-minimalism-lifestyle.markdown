@@ -4,7 +4,7 @@ title:  "Why Minimalism is the way to happiness"
 description: I am sure you’ve heard about minimalism before, but if you were not sure why and what makes it the right way, you came to the right place.
 date:   2018-01-14 10:50:00 +0230
 author: Dean Maccabi
-featured-image: pic3logo.png
+featured-image: pic3logo.jpg
 ---
 # Why Minimalism is the way to happiness
 
