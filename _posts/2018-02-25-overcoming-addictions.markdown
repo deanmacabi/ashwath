@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "title:  "How To Overcome Addiction And Make Lasting Changes"
+title: "How To Overcome Addiction And Make Lasting Changes"
 description: I assume you have or had an addiction to something, and we all know how sucks and devastating it is while someone takes part in such activity.
 date:   2018-02-25 14:50:00 +0230
 author: Dean Maccabi
