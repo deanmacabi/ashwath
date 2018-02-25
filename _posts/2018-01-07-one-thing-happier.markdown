@@ -23,12 +23,10 @@ featured-image: pic1.jpeg
 Want to learn more about me & my program  Critical Thinking — <a class="drift-open-chat" href="javascript:void(0)"><font color="#0176FF">Chat with me for free.</font></a>
 <hr>
 <div class="subscribe">
-    `<h2>Subscribe to our weekly post on critical thinking</h2>
-    <div class="form-group mc-field-group">
+    <h2>Subscribe to our weekly post on critical thinking</h2>
+    <div class="form-group mc-field-group" style="text-align:cetner;">
       <form method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate action="https://goals.us17.list-manage.com/subscribe/post?u=2588b0693006fb1138375a749&amp;id=714da62614">
       <input class="form-control" value="" name="FNAME" placeholder="Name" id="mce-FNAME" type="text">
-    </div>
-    <div class="form-group mc-field-group">
       <input class="form-control" value="" name="EMAIL" placeholder="Email" id="mce-EMAIL" type="email">
     </div>
       <div id="mce-responses" class="clear">
@@ -36,7 +34,7 @@ Want to learn more about me & my program  Critical Thinking — <a class="drif
             <div class="response2" id="mce-success-response" style="display:none"></div>
       </div>    <!-- do not remove this or risk form bot signups-->
     <div class="form-group buttonmarg">
-      <input value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="margin:0px auto; display:block;" type="submit">
+      <input value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="margin:10px auto; display:block;" type="submit">
     </div>
   </form>
   <div class="scripts">
