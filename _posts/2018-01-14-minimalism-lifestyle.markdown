@@ -25,3 +25,24 @@ I can tell dozens of reasons why it is true. However, I think this one metaphor 
 #### So if you were in doubt or were not sure exactly why minimalism is the right way, by now, I’m pretty sure you have figured it out.
 
 Want to learn more about me & my program  Critical Thinking — <a class="drift-open-chat" href="javascript:void(0)"><font color="#0176FF">Chat with me for free.</font></a>
+
+</hr>
+<div class="subscribe" style="text-align:center;">
+    <h2>Subscribe to our weekly post on critical thinking</h2>
+    <div class="form-group mc-field-group">
+      <form method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate action="https://goals.us17.list-manage.com/subscribe/post?u=2588b0693006fb1138375a749&amp;id=714da62614">
+      <input class="form-control" value="" name="FNAME" placeholder="Name" id="mce-FNAME" type="text">
+      <input class="form-control" value="" name="EMAIL" placeholder="Email" id="mce-EMAIL" type="email">
+      <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+      </div>    <!-- do not remove this or risk form bot signups-->
+    <div class="form-group buttonmarg">
+      <input value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="margin:10px auto; display:block;" type="submit">
+    </div>
+  </form>
+  <div class="scripts">
+  <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='BIRTHDAY';ftypes[3]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>					      	
+  </div>
+</div>
+<!--subscribe-->
