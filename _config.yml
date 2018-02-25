@@ -13,7 +13,6 @@ url: "https://blog.mentorself.com"
 permalink: :title/
 full-url: "https://blog.mentorself.com" # the base hostname & protocol for your site
 
-#
 
 # CSS
 sass:
