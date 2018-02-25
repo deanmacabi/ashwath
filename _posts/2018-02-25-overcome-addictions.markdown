@@ -21,7 +21,7 @@ featured-image: pic8.jpeg
 ## Now it is the time to share with you my solution, to all of this, so here it goes:
 ### My first tip that I would suggest is stop listening to all those people who claim there is a 'one way' for everyone to get rid of one's individual struggles, it is simply NOT possible biologically and scientifically speaking.
 ### Second of all I would suggest you look at your problems from an objective point of view and figure the root-source of your struggles and understand what caused those addictions to arise in the first place. After you have realized this crucial step, You should figure what is wrong with your current thought and behavioral patterns which causes you to suffer from it either directly / indirectly, and by doing that you will eventually eliminate your struggles. 
-### I assume you already know people who think like you less or more but don't suffer from those difficulties you are going through so there must be a way out, you just need to figure the right soultions for you. Good luck.
+### I assume you already know people who think like you less or more but don't suffer from those difficulties you are going through so there must be a way out, you just need to figure the right solutions for you. Good luck.
 
 Want to learn more about me & my program  Critical Thinking — <a class="drift-open-chat" href="javascript:void(0)"><font color="#0176FF">Chat with me for free.</font></a>
 
