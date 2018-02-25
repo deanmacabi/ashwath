@@ -24,11 +24,10 @@ Want to learn more about me & my program  Critical Thinking — <a class="drif
 <hr>
 <div class="subscribe">
     <h2>Subscribe to our weekly post on critical thinking</h2>
-    <div class="form-group mc-field-group" style="text-align:cetner;">
+    <div class="form-group mc-field-group" style="text-align:center;">
       <form method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate action="https://goals.us17.list-manage.com/subscribe/post?u=2588b0693006fb1138375a749&amp;id=714da62614">
       <input class="form-control" value="" name="FNAME" placeholder="Name" id="mce-FNAME" type="text">
       <input class="form-control" value="" name="EMAIL" placeholder="Email" id="mce-EMAIL" type="email">
-    </div>
       <div id="mce-responses" class="clear">
             <div class="response2" id="mce-error-response" style="display:none"></div>
             <div class="response2" id="mce-success-response" style="display:none"></div>
