@@ -21,5 +21,37 @@ featured-image: pic1.jpeg
 #### If you did everything as expected, I don’t see any problem at all, and I am pretty sure you neither, However if you have not reached what you had planned or have not experienced all the joy and happiness of life as you were a kid, I would assume you should re-consider few things…
 
 Want to learn more about me & my program  Critical Thinking — <a class="drift-open-chat" href="javascript:void(0)"><font color="#0176FF">Chat with me for free.</font></a>
+<hr>
+<div class="subscribe">
+      <div class="col-xs-12 text-center">
+    `<h2>Subscribe to our weekly post on critical thinking</h2>
+      </div>	
+  <div class="col-xs-6">
+    <div class="form-group mc-field-group">
+      <form method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate action="https://goals.us17.list-manage.com/subscribe/post?u=2588b0693006fb1138375a749&amp;id=714da62614">
+      <input class="form-control" value="" name="FNAME" placeholder="Name" id="mce-FNAME" type="text">
+    </div>
+  </div>
+  <div class="col-xs-6">
+    <div class="form-group mc-field-group">
+      <input class="form-control" value="" name="EMAIL" placeholder="Email" id="mce-EMAIL" type="email">
+    </div>
+  </div>	
+  <div id="mce-responses" class="clear">
+      <div class="response2" id="mce-error-response" style="display:none"></div>
+      <div class="response2" id="mce-success-response" style="display:none"></div>
+    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  <div class="col-xs-12 marg-top-20">
+    <div class="form-group buttonmarg">
+      <input value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="margin:0px auto; display:block;" type="submit">
+    </div>
+  <hr>
+  </div>
+  </form>
+  <div class="scripts">
+  <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='BIRTHDAY';ftypes[3]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>										
+  </div>
+</div>
+<!--subscribe-->
 
 
