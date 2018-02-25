@@ -29,8 +29,8 @@ Want to learn more about me & my program  Critical Thinking — <a class="drif
       <input class="form-control" value="" name="FNAME" placeholder="Name" id="mce-FNAME" type="text">
       <input class="form-control" value="" name="EMAIL" placeholder="Email" id="mce-EMAIL" type="email">
       <div id="mce-responses" class="clear">
-            <div class="response2" id="mce-error-response" style="display:none"></div>
-            <div class="response2" id="mce-success-response" style="display:none"></div>
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
       </div>    <!-- do not remove this or risk form bot signups-->
     <div class="form-group buttonmarg">
       <input value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="margin:10px auto; display:block;" type="submit">
