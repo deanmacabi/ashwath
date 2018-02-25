@@ -22,9 +22,9 @@ featured-image: pic1.jpeg
 
 Want to learn more about me & my program  Critical Thinking — <a class="drift-open-chat" href="javascript:void(0)"><font color="#0176FF">Chat with me for free.</font></a>
 <hr>
-<div class="subscribe">
+<div class="subscribe" style="text-align:center;">
     <h2>Subscribe to our weekly post on critical thinking</h2>
-    <div class="form-group mc-field-group" style="text-align:center;">
+    <div class="form-group mc-field-group">
       <form method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate action="https://goals.us17.list-manage.com/subscribe/post?u=2588b0693006fb1138375a749&amp;id=714da62614">
       <input class="form-control" value="" name="FNAME" placeholder="Name" id="mce-FNAME" type="text">
       <input class="form-control" value="" name="EMAIL" placeholder="Email" id="mce-EMAIL" type="email">
