@@ -8,11 +8,10 @@
 # Site settings
 title: Mentor Self
 description: > # this means to ignore newlines until "baseurl:"
- Ashwathama is a minimal website with an app like design. It also features card layouts for website elements.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.mentorself.com"
+Mentor Self guide people how to use critical thinking, for your benefit. Together, you will get the result you always wanted but yet to achieve while eliminating all the negative feelings from undesirable activities.baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mentorself.com/blog"
 permalink: :title/
-full-url: "https://blog.mentorself.com" # the base hostname & protocol for your site
+full-url: "https://mentorself.com/blog" # the base hostname & protocol for your site
 
 
 # CSS
