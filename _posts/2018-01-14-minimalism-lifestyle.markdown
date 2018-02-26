@@ -26,7 +26,7 @@ I can tell dozens of reasons why it is true. However, I think this one metaphor 
 
 Want to learn more about me & my program  Critical Thinking — <a class="drift-open-chat" href="javascript:void(0)"><font color="#0176FF">Chat with me for free.</font></a>
 
-</hr>
+<hr>
 <div class="subscribe" style="text-align:center;">
     <h2>Subscribe to our weekly post on critical thinking</h2>
     <div class="form-group mc-field-group">
